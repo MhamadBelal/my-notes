@@ -2,8 +2,8 @@
 
 ## introducation
 
-    I am Mhamad Belal Al Msalma, 22 years old, I have studied software engineering in Jadara University and graduated 2023 year with excellent academic standing ranked the first.
-    I am a passionate and hard-working individual with teamwork & time mangement and good communication skills who is seeking a career that will provide the opportunity to utilize his professional growth and knowledge in the Software Engineering field.
+I am Mhamad Belal Al Msalma, 22 years old, I have studied software engineering in Jadara University and graduated 2023 year with excellent academic standing ranked the first.
+I am a passionate and hard-working individual with teamwork & time mangement and good communication skills who is seeking a career that will provide the opportunity to utilize his professional growth and knowledge in the Software Engineering field.
 
 ## what we have learned today
 
